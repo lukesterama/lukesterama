@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukesterama
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML and C
 - 💞️ I’m looking to collaborate on small projects that are like tutorials
 - 📫 How to reach me @lukesterama
 
